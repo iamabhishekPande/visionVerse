@@ -1,0 +1,9 @@
+streamlit
+opencv-python-headless
+numpy
+pickle5
+deepface
+ultralytics
+Pillow
+protobuf
+tf-keras 
